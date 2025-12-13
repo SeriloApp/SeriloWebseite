@@ -14,14 +14,13 @@ export default function Home() {
         loop
         muted
         playsInline
-        className="absolute inset-0 z-0 h-full w-full object-cover opacity-60 mix-blend-screen"
+        className="absolute inset-0 z-0 h-full w-full object-cover object-center"
       >
         <source src="/Hero.mp4" type="video/mp4" />
       </video>
 
-      {/* Background Gradients (Nebula) */}
-      <div className="absolute top-[-20%] left-[-10%] z-0 h-[500px] w-[500px] rounded-full bg-purple-600/20 blur-[120px] animate-pulse" />
-      <div className="absolute bottom-[-20%] right-[-10%] z-0 h-[500px] w-[500px] rounded-full bg-blue-600/20 blur-[120px] animate-pulse delay-1000" />
+      {/* Dark Overlay for readability */}
+      <div className="absolute inset-0 z-0 bg-black/40" />
 
       {/* Glass Card */}
       <div className="relative z-10 grid w-full max-w-lg place-items-center rounded-3xl border border-white/10 bg-white/5 p-6 shadow-2xl backdrop-blur-xl md:p-12">
@@ -29,7 +28,7 @@ export default function Home() {
         {/* Logo / Brand Name */}
         <div className="mb-6 md:mb-8">
           <h1 className="text-5xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 drop-shadow-sm md:text-7xl">
-            Serilo
+            serilo
           </h1>
         </div>
 
