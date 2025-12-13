@@ -1,0 +1,84 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes twinkle { 0%,100%{opacity:0.9} 50%{opacity:0.3} }
+    .star { fill: white; animation: twinkle 4s infinite ease-in-out; }
+    .star:nth-child(2n) { animation-duration: 3s; animation-delay: 0.5s; r: 1.5; }
+    .star:nth-child(3n) { animation-duration: 5s; animation-delay: 1.5s; r: 1; opacity: 0.7; }
+    .star:nth-child(4n) { animation-duration: 2.5s; animation-delay: 2s; r: 2; }
+    .star:nth-child(5n) { animation-duration: 6s; animation-delay: 0.2s; r: 0.8; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent"/>
+  
+  <!-- Randomly concentrated star clusters and scattered stars -->
+  <circle cx="50" cy="50" r="1" class="star" />
+  <circle cx="120" cy="80" r="1.5" class="star" />
+  <circle cx="200" cy="40" r="1" class="star" />
+  <circle cx="350" cy="90" r="2" class="star" />
+  <circle cx="500" cy="60" r="1" class="star" />
+  <circle cx="650" cy="100" r="1.5" class="star" />
+  <circle cx="750" cy="50" r="1" class="star" />
+  
+  <circle cx="30" cy="200" r="1.5" class="star" />
+  <circle cx="150" cy="250" r="1" class="star" />
+  <circle cx="280" cy="180" r="2" class="star" />
+  <circle cx="400" cy="220" r="1" class="star" />
+  <circle cx="550" cy="280" r="1.5" class="star" />
+  <circle cx="700" cy="210" r="1" class="star" />
+  
+  <circle cx="80" cy="350" r="1" class="star" />
+  <circle cx="220" cy="380" r="1.5" class="star" />
+  <circle cx="350" cy="320" r="1" class="star" />
+  <circle cx="480" cy="390" r="0.8" class="star" />
+  <circle cx="620" cy="340" r="1.5" class="star" />
+  <circle cx="780" cy="370" r="1" class="star" />
+  
+  <circle cx="40" cy="500" r="1.5" class="star" />
+  <circle cx="180" cy="550" r="1" class="star" />
+  <circle cx="300" cy="480" r="2" class="star" />
+  <circle cx="450" cy="520" r="1" class="star" />
+  <circle cx="580" cy="480" r="1.5" class="star" />
+  <circle cx="720" cy="540" r="1" class="star" />
+  
+  <circle cx="100" cy="650" r="1" class="star" />
+  <circle cx="250" cy="680" r="1.5" class="star" />
+  <circle cx="380" cy="620" r="1" class="star" />
+  <circle cx="520" cy="690" r="0.8" class="star" />
+  <circle cx="680" cy="640" r="1.5" class="star" />
+  
+  <circle cx="60" cy="750" r="2" class="star" />
+  <circle cx="200" cy="720" r="1" class="star" />
+  <circle cx="320" cy="780" r="1.5" class="star" />
+  <circle cx="460" cy="740" r="1" class="star" />
+  <circle cx="600" cy="770" r="0.8" class="star" />
+  <circle cx="740" cy="720" r="1.5" class="star" />
+  
+  <!-- Extra small stars for density -->
+  <circle cx="15" cy="15" r="0.5" class="star" />
+  <circle cx="90" cy="120" r="0.8" class="star" />
+  <circle cx="240" cy="100" r="0.5" class="star" />
+  <circle cx="420" cy="150" r="0.6" class="star" />
+  <circle cx="580" cy="80" r="0.5" class="star" />
+  <circle cx="720" cy="150" r="0.6" class="star" />
+  
+  <circle cx="110" cy="220" r="0.5" class="star" />
+  <circle cx="260" cy="280" r="0.6" class="star" />
+  <circle cx="380" cy="180" r="0.5" class="star" />
+  <circle cx="520" cy="250" r="0.6" class="star" />
+  <circle cx="670" cy="280" r="0.5" class="star" />
+  
+  <circle cx="140" cy="380" r="0.5" class="star" />
+  <circle cx="310" cy="350" r="0.6" class="star" />
+  <circle cx="420" cy="420" r="0.5" class="star" />
+  <circle cx="560" cy="380" r="0.6" class="star" />
+  
+  <circle cx="80" cy="580" r="0.5" class="star" />
+  <circle cx="240" cy="520" r="0.6" class="star" />
+  <circle cx="360" cy="580" r="0.5" class="star" />
+  <circle cx="500" cy="520" r="0.6" class="star" />
+  <circle cx="640" cy="560" r="0.5" class="star" />
+
+  <circle cx="180" cy="650" r="0.6" class="star" />
+  <circle cx="340" cy="720" r="0.5" class="star" />
+  <circle cx="550" cy="660" r="0.6" class="star" />
+  <circle cx="780" cy="680" r="0.5" class="star" />
+</svg>
