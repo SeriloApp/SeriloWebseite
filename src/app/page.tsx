@@ -7,20 +7,28 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <main className="relative min-h-screen w-full flex flex-col items-center justify-center overflow-hidden bg-black text-white">
-      {/* Stars Background */}
-      <div className="absolute inset-0 z-0 bg-[url('/stars.svg')] bg-cover opacity-80" />
+    <main className="relative min-h-screen w-full flex flex-col items-center justify-center overflow-hidden bg-black text-white p-4">
+      {/* Hero Video Background */}
+      <video
+        autoPlay
+        loop
+        muted
+        playsInline
+        className="absolute inset-0 z-0 h-full w-full object-cover opacity-60 mix-blend-screen"
+      >
+        <source src="/Hero.mp4" type="video/mp4" />
+      </video>
 
       {/* Background Gradients (Nebula) */}
       <div className="absolute top-[-20%] left-[-10%] z-0 h-[500px] w-[500px] rounded-full bg-purple-600/20 blur-[120px] animate-pulse" />
       <div className="absolute bottom-[-20%] right-[-10%] z-0 h-[500px] w-[500px] rounded-full bg-blue-600/20 blur-[120px] animate-pulse delay-1000" />
 
       {/* Glass Card */}
-      <div className="relative z-10 mx-4 grid w-full max-w-lg place-items-center rounded-3xl border border-white/10 bg-white/5 p-12 shadow-2xl backdrop-blur-xl">
+      <div className="relative z-10 grid w-full max-w-lg place-items-center rounded-3xl border border-white/10 bg-white/5 p-6 shadow-2xl backdrop-blur-xl md:p-12">
 
         {/* Logo / Brand Name */}
-        <div className="mb-8">
-          <h1 className="text-6xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 drop-shadow-sm">
+        <div className="mb-6 md:mb-8">
+          <h1 className="text-5xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 drop-shadow-sm md:text-7xl">
             Serilo
           </h1>
         </div>
@@ -34,11 +42,11 @@ export default function Home() {
           Im Aufbau
         </div>
 
-        <h2 className="mb-4 text-center text-3xl font-semibold leading-tight md:text-4xl">
+        <h2 className="mb-3 text-center text-2xl font-semibold leading-tight md:mb-4 md:text-4xl">
           Wir erstellen gerade <br /> etwas Besonderes.
         </h2>
 
-        <p className="mb-8 text-center text-lg text-zinc-400">
+        <p className="mb-6 text-center text-base text-zinc-400 md:mb-8 md:text-lg">
           Unsere neue Webseite ist bald für dich da. Schau in Kürze wieder vorbei!
         </p>
 
@@ -46,7 +54,7 @@ export default function Home() {
         <div className="h-1 w-24 rounded-full bg-gradient-to-r from-blue-500 to-purple-600" />
       </div>
 
-      <footer className="absolute bottom-6 text-sm text-zinc-600">
+      <footer className="absolute bottom-6 text-xs text-zinc-600 md:text-sm">
         &copy; {new Date().getFullYear()} Serilo. Alle Rechte vorbehalten.
       </footer>
     </main>
