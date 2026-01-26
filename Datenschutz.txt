@@ -1,0 +1,358 @@
+# Datenschutzerklärung – Serilo App
+
+**Stand:** 26. Januar 2026  
+**Version:** 1.0
+
+---
+
+## 1. Einleitung
+
+Der Schutz Ihrer personenbezogenen Daten ist uns wichtig. Diese Datenschutzerklärung informiert Sie darüber, welche Daten wir bei der Nutzung der mobilen Applikation "Serilo" (nachfolgend "App") erheben, wie wir diese verwenden und welche Rechte Sie haben.
+
+---
+
+## 2. Verantwortlicher
+
+Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO):
+
+**[Firmenname einfügen]**  
+[Adresse einfügen]  
+[E-Mail-Adresse einfügen]  
+**Website:** https://www.serilo.de
+
+---
+
+## 3. Erhobene Daten
+
+### 3.1 Pflichtangaben bei der Registrierung
+
+Bei der Registrierung erheben wir:
+
+| Datenart | Zweck | Rechtsgrundlage |
+|----------|-------|-----------------|
+| **Name** (oder Pseudonym) | Personalisierung, Anzeige im Profil | Art. 6 Abs. 1 lit. b DSGVO (Vertrag) |
+| **E-Mail-Adresse** | Kontoverwaltung, Passwort-Wiederherstellung | Art. 6 Abs. 1 lit. b DSGVO (Vertrag) |
+| **Land** | Lokalisierung der App | Art. 6 Abs. 1 lit. b DSGVO (Vertrag) |
+| **Bevorzugte Sprache** | Spracheinstellungen | Art. 6 Abs. 1 lit. b DSGVO (Vertrag) |
+
+### 3.2 Optionale Profildaten
+
+| Datenart | Zweck | Rechtsgrundlage |
+|----------|-------|-----------------|
+| **Profilbild** | Personalisierung | Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) |
+
+### 3.3 Standortdaten (GPS)
+
+Die App erhebt Standortdaten für folgende Funktionen:
+
+| Funktion | Datenart | Speicherung | Rechtsgrundlage |
+|----------|----------|-------------|-----------------|
+| **Routengenerierung** | Einmaliger Standort | Temporär | Art. 6 Abs. 1 lit. b DSGVO (Vertrag) |
+| **Walk-Tracking** | GPS-Koordinaten während des Walks | Dauerhaft (in Route gespeichert) | Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) |
+| **Hintergrund-Tracking** | GPS-Koordinaten im Hintergrund | Dauerhaft (in Route gespeichert) | Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) |
+| **Turn-by-Turn-Navigation** (Premium) | Echtzeit-Standort | Temporär | Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) |
+
+> **⚠️ WICHTIG:** Sie können die Standortfreigabe jederzeit in den Geräteeinstellungen widerrufen. Ohne Standortzugriff sind Routengenerierung und Walk-Tracking nicht möglich.
+
+### 3.4 Nutzungsdaten (Walks & Aktivitäten)
+
+Bei der Nutzung der App erheben wir:
+
+| Datenart | Zweck | Speicherung |
+|----------|-------|-------------|
+| **Abgeschlossene Spaziergänge** | Statistiken, Insights, Achievements | Dauerhaft |
+| **Routendaten** (Distanz, Dauer, Koordinaten) | Walk-Historie, Favoriten | Dauerhaft |
+| **Stimmungsdaten** (Mood vor/nach Walk) | Mood-Tracking, Insights | Dauerhaft |
+| **Schrittzählung** | Aktivitätsstatistiken | Dauerhaft |
+| **Badges & Achievements** | Gamification | Dauerhaft |
+| **Streak-Daten** | Motivation, Achievements | Dauerhaft |
+| **Wöchentliche Insights** | Balance Score, Statistiken | Dauerhaft |
+
+### 3.5 Gerätedaten
+
+| Datenart | Zweck | Rechtsgrundlage |
+|----------|-------|-----------------|
+| **Gerätetyp & Betriebssystem** | App-Optimierung, Fehlerbehebung | Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen) |
+| **App-Version** | Support, Updates | Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen) |
+
+### 3.6 Bewegungsdaten (Motion)
+
+| Datenart | Zweck | Rechtsgrundlage |
+|----------|-------|-----------------|
+| **Schrittzähler** | Schätzung der Schritte während Walks | Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) |
+| **Aktivitätserkennung** | Erkennung ob Sie gehen/laufen/stehen | Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) |
+
+### 3.7 Präferenzen und Einstellungen
+
+| Datenart | Zweck |
+|----------|-------|
+| **Theme** (Hell/Dunkel/System) | Anzeige-Einstellungen |
+| **Benachrichtigungs-Einstellungen** | Push-Benachrichtigungen |
+| **Distanz-Einheit** (km/mi) | Anzeige |
+| **Kartenstil** | Kartendarstellung |
+| **Haptik-Einstellungen** | Vibrationsfeedback |
+
+---
+
+## 4. Rechtsgrundlagen der Verarbeitung
+
+Wir verarbeiten Ihre Daten auf folgenden Rechtsgrundlagen:
+
+| Rechtsgrundlage | Anwendungsfall |
+|-----------------|----------------|
+| **Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)** | Standortdaten, Profilbild, Bewegungsdaten |
+| **Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung)** | Registrierung, App-Funktionen, Abonnementverwaltung |
+| **Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)** | Anonymisierte Nutzungsanalysen, Fehlerbehebung |
+
+---
+
+## 5. Drittanbieter und Datenübermittlung
+
+### 5.1 Übersicht der Drittanbieter
+
+| Anbieter | Zweck | Daten | Standort | Rechtsgrundlage |
+|----------|-------|-------|----------|-----------------|
+| **Supabase** | Backend, Datenbank, Authentifizierung | Alle Nutzerdaten | EU | Art. 6 Abs. 1 lit. b DSGVO |
+| **Google Sign-In** | Authentifizierung (optional) | Name, E-Mail | USA (SCCs) | Art. 6 Abs. 1 lit. b DSGVO |
+| **Apple Sign-In** | Authentifizierung (optional) | Name, E-Mail | USA (SCCs) | Art. 6 Abs. 1 lit. b DSGVO |
+| **StadiaMaps/Valhalla** | Routing (Free) | Standort für Routenberechnung | EU | Art. 6 Abs. 1 lit. b DSGVO |
+| **Mapbox** | Kartendarstellung, Routing (Premium) | Standort für Routenberechnung | USA (SCCs) | Art. 6 Abs. 1 lit. b DSGVO |
+| **RevenueCat** | Abonnementverwaltung | User-ID, Kaufstatus | USA (SCCs) | Art. 6 Abs. 1 lit. b DSGVO |
+| **PostHog** | Anonyme Nutzungsanalyse | Anonymisierte Events | **EU-Server** | Art. 6 Abs. 1 lit. f DSGVO |
+
+### 5.2 StadiaMaps/Valhalla (Routing für Free-Nutzer)
+
+- **Zweck:** Berechnung von Spazierrouten
+- **Übermittelte Daten:** Start- und Wegpunkte der Route (GPS-Koordinaten)
+- **Speicherung:** Keine dauerhafte Speicherung bei StadiaMaps
+- **Datenschutz:** https://stadiamaps.com/privacy/
+
+### 5.3 Mapbox (Karten & Premium-Routing)
+
+- **Zweck:** Kartendarstellung, POI-Suche, Premium-Routing
+- **Übermittelte Daten:** Anzeigebereich der Karte, Routing-Anfragen
+- **Speicherung:** Gemäß Mapbox Privacy Policy
+- **Datenschutz:** https://www.mapbox.com/legal/privacy
+
+### 5.4 Supabase (Backend & Datenbank)
+
+- **Zweck:** Speicherung aller Nutzerdaten, Authentifizierung
+- **Standort:** EU-Rechenzentrum
+- **Datenschutz:** https://supabase.com/privacy
+
+### 5.5 RevenueCat (In-App-Käufe)
+
+- **Zweck:** Verwaltung von Premium-Abonnements
+- **Übermittelte Daten:** User-ID, Kaufstatus, Abonnement-Informationen
+- **Datenschutz:** https://www.revenuecat.com/privacy/
+
+### 5.6 PostHog (Nutzungsanalyse)
+
+- **Zweck:** Anonymisierte Analyse der App-Nutzung (z.B. Onboarding-Funnel)
+- **Standort:** **EU-Region** (DSGVO-konform)
+- **Erfasste Events:**
+  - Onboarding-Fortschritt (anonymisiert)
+  - Paywall-Aufrufe (anonymisiert)
+  - Registrierung (anonymisiert)
+- **NICHT erfasst:** Standortdaten, persönliche Daten, Walks, Moods
+- **Datenschutz:** https://posthog.com/privacy
+
+### 5.7 Google Sign-In / Apple Sign-In
+
+- **Zweck:** Vereinfachte Registrierung und Anmeldung
+- **Übermittelte Daten:** Name und E-Mail-Adresse (bei Apple: optional Private Relay E-Mail)
+- **Datenschutz:** 
+  - Google: https://policies.google.com/privacy
+  - Apple: https://www.apple.com/legal/privacy/
+
+---
+
+## 6. Datenübermittlung in Drittländer
+
+Einige unserer Dienstleister haben ihren Sitz außerhalb der EU (insbesondere USA). Die Datenübermittlung erfolgt auf Basis von:
+
+- **EU-U.S. Data Privacy Framework** (soweit anwendbar)
+- **Standardvertragsklauseln (SCCs)** der EU-Kommission
+- **Angemessenheitsbeschlüsse** (soweit vorhanden)
+
+Wir setzen prioritär EU-basierte Dienstleister ein (z.B. PostHog EU, Supabase EU).
+
+---
+
+## 7. Speicherdauer
+
+| Datenart | Speicherdauer |
+|----------|---------------|
+| **Nutzerkonto & Profildaten** | Bis zur Kontolöschung |
+| **Walks & Routen** | Bis zur Kontolöschung |
+| **Stimmungsdaten** | Bis zur Kontolöschung |
+| **Badges & Achievements** | Bis zur Kontolöschung |
+| **Standortdaten (während Walk)** | Dauerhaft in Route gespeichert |
+| **Standortdaten (Echtzeit)** | Nur während der Nutzung, nicht gespeichert |
+| **Analytics-Daten (PostHog)** | Anonymisiert, gemäß PostHog-Richtlinien |
+| **Abonnement-Daten (RevenueCat)** | Gemäß RevenueCat-Richtlinien |
+
+---
+
+## 8. Ihre Rechte (DSGVO)
+
+### 8.1 Auskunftsrecht (Art. 15 DSGVO)
+Sie haben das Recht, Auskunft über Ihre gespeicherten Daten zu verlangen.
+
+### 8.2 Berichtigungsrecht (Art. 16 DSGVO)
+Sie haben das Recht, unrichtige Daten korrigieren zu lassen.
+
+### 8.3 Löschungsrecht (Art. 17 DSGVO)
+Sie haben das Recht, die Löschung Ihrer Daten zu verlangen ("Recht auf Vergessenwerden").
+
+**Umsetzung in der App:**
+- **Kontolöschung:** Profil → Einstellungen → Konto löschen
+- **Frist:** Innerhalb von 30 Tagen gemäß DSGVO Art. 17
+- **Sofortiger Logout:** Sie werden unmittelbar nach der Anfrage ausgeloggt
+- **Gelöschte Daten:** Profil, Walks, Routen, Moods, Badges, Avatar, Einstellungen
+
+### 8.4 Recht auf Einschränkung (Art. 18 DSGVO)
+Sie haben das Recht, die Einschränkung der Verarbeitung zu verlangen.
+
+### 8.5 Recht auf Datenübertragbarkeit (Art. 20 DSGVO)
+Sie haben das Recht, Ihre Daten in einem strukturierten, maschinenlesbaren Format zu erhalten.
+
+**Umsetzung:** Premium-Nutzer können ihre Daten als CSV/PDF exportieren.
+
+### 8.6 Widerspruchsrecht (Art. 21 DSGVO)
+Sie haben das Recht, der Verarbeitung Ihrer Daten zu widersprechen, soweit diese auf berechtigten Interessen basiert.
+
+### 8.7 Widerruf der Einwilligung (Art. 7 Abs. 3 DSGVO)
+Sie können erteilte Einwilligungen jederzeit widerrufen. Der Widerruf berührt nicht die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung.
+
+**Praktische Umsetzung:**
+- **Standortzugriff:** Widerruf in den Geräteeinstellungen (iOS/Android)
+- **Benachrichtigungen:** Deaktivierung in App-Einstellungen oder Geräteeinstellungen
+- **Bewegungsdaten:** Widerruf in den Geräteeinstellungen
+
+### 8.8 Beschwerderecht
+Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
+
+---
+
+## 9. Berechtigungen der App
+
+### 9.1 Standortzugriff
+
+| Berechtigung | iOS | Android | Zweck |
+|--------------|-----|---------|-------|
+| **Zugriff bei Nutzung** | Ja | Ja | Routengenerierung, Walk-Tracking |
+| **Zugriff im Hintergrund** | Ja | Ja | Kontinuierliches Walk-Tracking |
+
+### 9.2 Kamera & Fotos
+
+| Berechtigung | iOS | Android | Zweck |
+|--------------|-----|---------|-------|
+| **Kamera** | Ja | Ja | Profilbild aufnehmen |
+| **Fotos** | Ja | Ja | Profilbild auswählen |
+
+### 9.3 Bewegungsdaten
+
+| Berechtigung | iOS | Android | Zweck |
+|--------------|-----|---------|-------|
+| **Motion & Fitness** | Ja | - | Schrittzählung |
+| **Activity Recognition** | - | Ja | Schrittzählung, Aktivitätserkennung |
+
+### 9.4 Benachrichtigungen
+
+| Berechtigung | iOS | Android | Zweck |
+|--------------|-----|---------|-------|
+| **Push-Benachrichtigungen** | Ja | Ja | Walk-Erinnerungen, Achievement-Benachrichtigungen |
+
+---
+
+## 10. Datensicherheit
+
+### 10.1 Technische Maßnahmen
+
+- **Verschlüsselung:** Alle Datenübertragungen erfolgen verschlüsselt (HTTPS/TLS)
+- **Sichere Speicherung:** Daten werden in EU-Rechenzentren gespeichert (Supabase EU)
+- **Zugriffskontrolle:** Row-Level-Security (RLS) auf Datenbankebene
+- **Authentifizierung:** Sichere Token-basierte Authentifizierung
+
+### 10.2 Organisatorische Maßnahmen
+
+- Zugriff auf Nutzerdaten nur bei technischer Notwendigkeit
+- Regelmäßige Sicherheitsüberprüfungen
+- Sensible Daten werden nicht in Logs gespeichert
+
+---
+
+## 11. Keine Weitergabe an Dritte
+
+Wir verkaufen, vermieten oder teilen Ihre persönlichen Daten NICHT mit Dritten zu Werbezwecken.
+
+Daten werden nur an die in Abschnitt 5 genannten Dienstleister übermittelt, die für den Betrieb der App erforderlich sind, und nur im für den jeweiligen Zweck erforderlichen Umfang.
+
+---
+
+## 12. Push-Benachrichtigungen
+
+### 12.1 Arten von Benachrichtigungen
+
+| Benachrichtigungstyp | Beschreibung | Einstellung |
+|---------------------|--------------|-------------|
+| **Walk-Erinnerungen** | Tägliche Erinnerung an Spaziergänge | Einstellbar |
+| **Achievements** | Benachrichtigung bei neuen Badges | Einstellbar |
+| **Turn-by-Turn** (Premium) | Navigationshinweise während Walk | Einstellbar |
+
+### 12.2 Deaktivierung
+
+Benachrichtigungen können jederzeit deaktiviert werden:
+- In der App: Profil → Einstellungen → Benachrichtigungen
+- In den Geräteeinstellungen
+
+---
+
+## 13. Minderjährige
+
+### 13.1 Mindestalter
+Die App ist für Personen ab 16 Jahren bestimmt.
+
+### 13.2 Kinder unter 16
+Wir erheben wissentlich keine Daten von Kindern unter 16 Jahren. Sollten wir erfahren, dass ein Kind unter 16 Jahren Daten übermittelt hat, werden diese umgehend gelöscht.
+
+---
+
+## 14. Änderungen der Datenschutzerklärung
+
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie an geänderte rechtliche Anforderungen oder Änderungen der App anzupassen. Die aktuelle Version ist stets in der App und auf unserer Website verfügbar.
+
+Bei wesentlichen Änderungen informieren wir Sie in der App.
+
+---
+
+## 15. Kontakt
+
+Bei Fragen zum Datenschutz wenden Sie sich bitte an:
+
+**[Firmenname einfügen]**  
+[Adresse einfügen]  
+**E-Mail:** [Datenschutz-Kontakt-E-Mail einfügen]  
+**Website:** https://www.serilo.de/datenschutz
+
+---
+
+## 16. Weitere Informationen
+
+### 16.1 Cookies
+Die mobile App verwendet keine Cookies. Auf unserer Website können Cookies zum Einsatz kommen, hierzu informiert die Website-Datenschutzerklärung.
+
+### 16.2 Tracking
+Die App verwendet **KEIN** Werbe-Tracking oder Werbe-IDs. Die anonymisierte Nutzungsanalyse über PostHog dient ausschließlich der Produktverbesserung.
+
+### 16.3 Standort-Tracking
+Standortdaten werden **NICHT** an Werbenetzwerke oder Datenbroker übermittelt. Die Standortdaten dienen ausschließlich der Routengenerierung und dem Walk-Tracking innerhalb der App.
+
+---
+
+**Hinweis:** Diese Datenschutzerklärung wurde sorgfältig erstellt, ersetzt jedoch keine individuelle Rechtsberatung. Bei rechtlichen Fragen sollte ein Rechtsanwalt konsultiert werden.
+
+---
+
+*Letzte Aktualisierung: 26. Januar 2026*

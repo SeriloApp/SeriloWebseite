@@ -15,6 +15,11 @@ const supabaseAdmin = createClient(
 export async function GET(request: NextRequest) {
     // Security: Prüfe Vercel Cron Secret
     const authHeader = request.headers.get('authorization');
+
+    // Debug logging
+    console.log('[Cron] Auth Header present:', !!authHeader);
+    console.log('[Cron] CRON_SECRET present:', !!process.env.CRON_SECRET);
+
     if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
         return NextResponse.json(
             { error: 'Unauthorized' },

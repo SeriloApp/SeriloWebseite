@@ -1,0 +1,338 @@
+# Allgemeine Geschäftsbedingungen (AGB) – Serilo App
+
+**Stand:** 26. Januar 2026  
+**Version:** 1.0
+
+---
+
+## 1. Geltungsbereich
+
+### 1.1 Anbieter
+Diese Allgemeinen Geschäftsbedingungen (nachfolgend "AGB") gelten für die Nutzung der mobilen Applikation "Serilo" (nachfolgend "App") für iOS und Android.
+
+### 1.2 Anwendungsbereich
+Diese AGB regeln das Vertragsverhältnis zwischen dem Anbieter der App und den Nutzern (nachfolgend "Nutzer" oder "Sie"). Mit der Installation, Registrierung oder Nutzung der App erklären Sie sich mit diesen AGB einverstanden.
+
+### 1.3 Änderungen der AGB
+Der Anbieter behält sich vor, diese AGB jederzeit zu ändern. Nutzer werden über Änderungen in der App informiert. Die fortgesetzte Nutzung der App nach Inkrafttreten der Änderungen gilt als Zustimmung.
+
+---
+
+## 2. Leistungsbeschreibung
+
+### 2.1 Kernfunktionen
+Serilo ist eine Outdoor- und Wellness-App mit folgenden Funktionen:
+
+- **Routengenerierung**: Automatische Erstellung von Spazier- und Wanderrouten basierend auf Ihrem Standort und gewünschter Dauer
+- **Walk-Tracking**: GPS-basierte Aufzeichnung Ihrer Spaziergänge (inkl. Hintergrund-Tracking)
+- **Stimmungs-Tracking**: Erfassung Ihrer Stimmung vor und nach Spaziergängen
+- **Achievements & Badges**: Gamification-Elemente zur Motivation
+- **Statistiken & Insights**: Auswertung Ihrer Aktivitäten
+- **Benachrichtigungen**: Erinnerungen für Spaziergänge
+
+### 2.2 Premium-Funktionen (Serilo+)
+Zusätzlich zu den kostenlosen Basisfunktionen bietet Serilo+ folgende Premium-Funktionen:
+
+- Tägliche Balance-Score-Analyse
+- Premium Scenic Routes mit POI-Integration
+- Vollständige Mood-Kurve (7 Tage)
+- Unbegrenzte Daten-Historie
+- Erweiterte Route-Varianten
+- Premium-Badges und Erfolge
+- Intelligente Benachrichtigungen
+- Datenexport (CSV/PDF)
+
+### 2.3 Verfügbarkeit
+Der Anbieter bemüht sich um eine hohe Verfügbarkeit der App, garantiert jedoch keine ununterbrochene Verfügbarkeit. Wartungsarbeiten, technische Probleme oder höhere Gewalt können zu temporären Einschränkungen führen.
+
+---
+
+## 3. Registrierung und Nutzerkonto
+
+### 3.1 Registrierung
+Die Nutzung bestimmter Funktionen erfordert eine Registrierung. Diese kann erfolgen über:
+
+- E-Mail-Adresse und Passwort
+- Google-Konto (Google Sign-In)
+- Apple-ID (Sign in with Apple)
+
+### 3.2 Angaben bei der Registrierung
+Bei der Registrierung sind wahrheitsgemäße Angaben zu machen. Pflichtangaben sind:
+
+- Name (oder Pseudonym)
+- E-Mail-Adresse
+
+### 3.3 Kontosicherheit
+Der Nutzer ist für die Vertraulichkeit seiner Zugangsdaten verantwortlich. Bei Verdacht auf Missbrauch ist der Anbieter unverzüglich zu informieren.
+
+### 3.4 Mindestalter
+Die Nutzung der App ist Personen ab 16 Jahren gestattet. Bei Nutzern unter 18 Jahren ist die Zustimmung eines Erziehungsberechtigten erforderlich.
+
+---
+
+## 4. Routen und Navigation
+
+### 4.1 Routengenerierung
+Die App generiert Routen auf Basis von:
+
+- Ihrem aktuellen GPS-Standort
+- Der gewünschten Dauer Ihres Spaziergangs
+- Verfügbaren Kartendaten von Drittanbietern (StadiaMaps/Valhalla für Free, Mapbox für Premium)
+
+### 4.2 Wichtige Hinweise zu Routen
+
+> **⚠️ HAFTUNGSAUSSCHLUSS FÜR ROUTEN**
+> 
+> **DIE GENERIERTEN ROUTEN DIENEN AUSSCHLIESSLICH ALS VORSCHLÄGE UND ORIENTIERUNGSHILFE.**
+
+Die Routen werden automatisch auf Basis verfügbarer Kartendaten erstellt. Der Anbieter **KANN NICHT GARANTIEREN**, dass:
+
+- **Die Routen ausschließlich über öffentliche Wege führen** – Es kann vorkommen, dass Routen über Privatgrundstücke, gesperrte Wege, landwirtschaftliche Flächen oder nicht für die Öffentlichkeit zugängliche Bereiche führen.
+- **Die Routen gefahrlos begehbar sind** – Die Beschaffenheit der Wege (z.B. unbefestigte Pfade, steile Abschnitte, fehlende Beleuchtung, Verkehr) kann variieren und Risiken bergen.
+- **Die Kartendaten aktuell und vollständig sind** – Straßensperrungen, Baustellen, Naturereignisse oder andere Veränderungen können dazu führen, dass Routen nicht wie geplant begehbar sind.
+- **Die Routenführung für alle Wetterbedingungen geeignet ist** – Bei Regen, Eis, Schnee oder Dunkelheit können Wege gefährlich werden.
+
+### 4.3 Eigenverantwortung des Nutzers
+
+**DER NUTZER TRÄGT DIE VOLLE VERANTWORTUNG FÜR:**
+
+1. **Die Prüfung der Route vor dem Losgehen** – Nutzer sollten die vorgeschlagene Route auf der Karte prüfen und einschätzen, ob sie für ihre Fähigkeiten geeignet ist.
+
+2. **Die Beachtung örtlicher Gegebenheiten** – Schilder, Absperrungen, Warnschilder und örtliche Vorschriften sind zu beachten.
+
+3. **Die Anpassung an Wetter- und Lichtverhältnisse** – Bei schlechtem Wetter, Dunkelheit oder anderen ungünstigen Bedingungen ist besondere Vorsicht geboten.
+
+4. **Die eigene körperliche Verfassung** – Die Route sollte den eigenen körperlichen Fähigkeiten entsprechen.
+
+5. **Das Verlassen der Route bei Gefahr** – Wenn ein Weg unsicher, gesperrt oder nicht begehbar erscheint, sollte die Route sofort verlassen und ein sicherer Rückweg gewählt werden.
+
+6. **Die Einhaltung von Eigentums- und Betretungsrechten** – Das Betreten von Privatgrundstücken, eingezäunten Bereichen oder gesperrten Flächen ist in vielen Ländern verboten und kann rechtliche Konsequenzen haben.
+
+### 4.4 Kein Ersatz für gesunden Menschenverstand
+Die App ersetzt nicht den gesunden Menschenverstand und die Eigenverantwortung des Nutzers. Bei Zweifeln an der Sicherheit eines Weges ist stets die Sicherheit zu priorisieren.
+
+---
+
+## 5. Gesundheit und körperliche Aktivität
+
+### 5.1 Keine medizinische Beratung
+Die App ist **KEIN MEDIZINPRODUKT** und ersetzt keine ärztliche Beratung. Die Stimmungserfassung und Aktivitätsstatistiken dienen ausschließlich zur persönlichen Reflexion und Motivation.
+
+### 5.2 Haftungsausschluss für Verletzungen und Gesundheitsschäden
+
+> **⚠️ WICHTIGER HAFTUNGSAUSSCHLUSS**
+> 
+> **DER ANBIETER ÜBERNIMMT KEINE HAFTUNG FÜR VERLETZUNGEN, UNFÄLLE ODER GESUNDHEITSSCHÄDEN, DIE IM ZUSAMMENHANG MIT DER NUTZUNG DER APP ENTSTEHEN.**
+
+Dies umfasst insbesondere:
+
+- **Stürze und Verletzungen** auf Wegen, die von der App vorgeschlagen wurden
+- **Herz-Kreislauf-Probleme** oder andere gesundheitliche Beeinträchtigungen durch körperliche Anstrengung
+- **Unfälle im Straßenverkehr** während der Nutzung der App
+- **Verletzungen durch Dritte** (z.B. Hunde, andere Personen) während eines Spaziergangs
+- **Verletzungen durch Wetterereignisse** (z.B. Gewitter, Hitze, Kälte)
+- **Verletzungen durch Tiere oder Naturgefahren**
+- **Überanstrengung oder Erschöpfung**
+
+### 5.3 Vor der Nutzung
+Vor Beginn eines neuen Bewegungsprogramms sollten Nutzer – insbesondere bei bestehenden gesundheitlichen Einschränkungen – einen Arzt konsultieren.
+
+### 5.4 Während der Nutzung
+Nutzer sollten während der Nutzung:
+
+- Auf ihren Körper hören und bei Unwohlsein sofort pausieren
+- Ausreichend Flüssigkeit zu sich nehmen
+- Angemessene Kleidung und Schuhwerk tragen
+- Ein Mobiltelefon für Notfälle mitführen
+- Andere Verkehrsteilnehmer und die Umgebung beachten
+
+---
+
+## 6. GPS und Standortdaten
+
+### 6.1 GPS-Nutzung
+Die App nutzt GPS zur Routengenerierung und zum Walk-Tracking. Die Genauigkeit von GPS-Daten kann variieren und hängt von verschiedenen Faktoren ab (Wetter, Gebäude, Baumbestand, Gerät).
+
+### 6.2 Hintergrund-Tracking
+Mit Ihrer Zustimmung kann die App Ihren Standort auch im Hintergrund erfassen, um Ihre Spaziergänge vollständig aufzuzeichnen. Premium-Nutzer erhalten zusätzlich Turn-by-Turn-Navigationshinweise.
+
+### 6.3 Keine Garantie für GPS-Genauigkeit
+Der Anbieter garantiert keine bestimmte GPS-Genauigkeit. Abweichungen zwischen tatsächlichem Standort und angezeigter Position sind möglich und normal.
+
+---
+
+## 7. Premium-Abonnements (Serilo+)
+
+### 7.1 Verfügbare Abonnements
+Serilo+ ist als Abonnement erhältlich mit folgenden Optionen:
+
+- **Monatliches Abonnement**
+- **Jährliches Abonnement** (mit Rabatt gegenüber monatlicher Zahlung)
+
+Die aktuellen Preise werden in der App vor dem Kauf angezeigt.
+
+### 7.2 Zahlungsabwicklung
+Die Zahlungsabwicklung erfolgt über:
+
+- **Apple App Store** (für iOS-Nutzer)
+- **Google Play Store** (für Android-Nutzer)
+
+Es gelten die Zahlungsbedingungen des jeweiligen Stores.
+
+### 7.3 Automatische Verlängerung
+Abonnements verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ablauf des aktuellen Zeitraums gekündigt werden.
+
+### 7.4 Kündigung
+Die Kündigung erfolgt über die Abo-Verwaltung des jeweiligen App Stores:
+
+- **iOS**: Einstellungen → [Ihr Name] → Abonnements
+- **Android**: Google Play Store → Menü → Abonnements
+
+### 7.5 Widerrufsrecht
+Bei digitalen Inhalten, die sofort nach dem Kauf bereitgestellt werden, kann das Widerrufsrecht mit Ihrer Zustimmung vor Ablauf der Widerrufsfrist entfallen. Dies erfolgt im Rahmen des Kaufprozesses im jeweiligen App Store.
+
+### 7.6 Erstattungen
+Erstattungen für Abonnements werden gemäß den Richtlinien des Apple App Store bzw. Google Play Store abgewickelt.
+
+---
+
+## 8. Nutzungspflichten
+
+### 8.1 Erlaubte Nutzung
+Die App darf ausschließlich für private, nicht-kommerzielle Zwecke genutzt werden.
+
+### 8.2 Verbotene Nutzung
+Folgende Nutzungen sind untersagt:
+
+- Manipulation der App oder ihrer Systeme
+- Umgehung von Sicherheitsmaßnahmen oder Zahlungssystemen
+- Reverse Engineering oder Dekompilierung der App
+- Nutzung für illegale Zwecke
+- Nutzung in einer Weise, die andere Nutzer beeinträchtigt
+- Kommerzielle Nutzung ohne schriftliche Genehmigung
+- Das Sammeln von Daten anderer Nutzer
+
+### 8.3 Verstöße
+Bei Verstößen gegen diese Nutzungsbedingungen ist der Anbieter berechtigt, den Zugang zur App zu sperren und/oder das Nutzerkonto zu löschen.
+
+---
+
+## 9. Geistiges Eigentum
+
+### 9.1 Rechte des Anbieters
+Alle Rechte an der App, einschließlich Software, Design, Texte, Grafiken, Logos und Marken, liegen beim Anbieter.
+
+### 9.2 Nutzungsrechte
+Mit der Installation der App erhält der Nutzer ein nicht-exklusives, nicht übertragbares, widerrufbares Recht zur Nutzung der App für private Zwecke.
+
+### 9.3 Nutzergenerierte Inhalte
+Durch das Hochladen von Inhalten (z.B. Profilbilder, Notizen) räumt der Nutzer dem Anbieter das Recht ein, diese zur Bereitstellung des Dienstes zu verwenden.
+
+---
+
+## 10. Haftungsbeschränkung
+
+### 10.1 Haftungsumfang
+Der Anbieter haftet nur für Schäden, die auf Vorsatz oder grober Fahrlässigkeit beruhen. Bei leichter Fahrlässigkeit haftet der Anbieter nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten) und beschränkt auf den vorhersehbaren, typischen Schaden.
+
+### 10.2 Ausschluss der Haftung
+Der Anbieter haftet insbesondere **NICHT** für:
+
+- **Schäden durch die Nutzung von generierten Routen** (Verletzungen, Unfälle, Sachschäden)
+- **Gesundheitsschäden durch körperliche Aktivität**
+- **Schäden durch fehlerhafte GPS-Daten**
+- **Schäden durch das Betreten von Privatgrundstücken oder gesperrten Bereichen**
+- **Indirekte Schäden, entgangenen Gewinn oder Datenverlust**
+- **Schäden durch Drittanbieter-Dienste** (Kartendienste, Zahlungsabwicklung)
+- **Schäden durch höhere Gewalt**
+- **Schäden durch Unterbrechung oder Nichtverfügbarkeit der App**
+
+### 10.3 Haftung für Links und Drittanbieter
+Die App kann Links zu Drittanbietern enthalten oder Dienste von Drittanbietern einbinden. Der Anbieter übernimmt keine Verantwortung für Inhalte, Datenschutzpraktiken oder Verfügbarkeit dieser Dienste.
+
+### 10.4 Höhe der Haftung
+Die Haftung des Anbieters ist in jedem Fall begrenzt auf den Betrag, den der Nutzer in den letzten 12 Monaten für die App bezahlt hat.
+
+---
+
+## 11. Drittanbieter-Dienste
+
+### 11.1 Verwendete Drittanbieter
+Die App nutzt folgende Drittanbieter-Dienste:
+
+- **Supabase**: Datenbank und Authentifizierung
+- **StadiaMaps/Valhalla**: Routing für Free-Nutzer
+- **Mapbox**: Kartendarstellung und Premium-Routing
+- **RevenueCat**: In-App-Käufe und Abonnementverwaltung
+- **PostHog**: Anonymisierte Nutzungsanalyse (EU-Server)
+- **Google Sign-In**: Authentifizierung
+- **Apple Sign-In**: Authentifizierung
+
+### 11.2 Nutzungsbedingungen der Drittanbieter
+Für die Nutzung der Drittanbieter-Dienste gelten ergänzend deren jeweilige Nutzungsbedingungen.
+
+---
+
+## 12. Kontolöschung
+
+### 12.1 Recht auf Löschung
+Nutzer können ihr Konto jederzeit in der App unter Profil → Einstellungen → Konto löschen anfordern.
+
+### 12.2 Löschungsprozess
+Die Löschung wird gemäß DSGVO Art. 17 innerhalb von 30 Tagen vollzogen. Dabei werden gelöscht:
+
+- Profilbanden
+- Gespeicherte Spaziergänge und Routen
+- Stimmungsdaten
+- Badges und Achievements
+- Profilbilder
+- Präferenzen und Einstellungen
+
+### 12.3 Automatischer Logout
+Nach Anforderung der Kontolöschung werden Sie sofort ausgeloggt. Die vollständige Datenlöschung erfolgt im Hintergrund.
+
+---
+
+## 13. Änderungen der App
+
+### 13.1 Updates und Änderungen
+Der Anbieter behält sich vor, die App jederzeit zu ändern, zu erweitern oder einzuschränken. Funktionen können hinzugefügt oder entfernt werden.
+
+### 13.2 Einstellung der App
+Der Anbieter behält sich vor, die App einzustellen. Nutzer werden hierüber rechtzeitig informiert. Bei vollständiger Einstellung werden aktive Abonnements anteilig erstattet.
+
+---
+
+## 14. Schlussbestimmungen
+
+### 14.1 Anwendbares Recht
+Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Für Verbraucher gelten ergänzend die zwingenden Verbraucherschutzvorschriften ihres Wohnsitzlandes.
+
+### 14.2 Gerichtsstand
+Für Streitigkeiten mit Unternehmern ist der Sitz des Anbieters Gerichtsstand. Für Verbraucher gilt der gesetzliche Gerichtsstand.
+
+### 14.3 Salvatorische Klausel
+Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+### 14.4 Online-Streitbeilegung
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/
+
+### 14.5 Verbraucherinformationen zur Streitbeilegung
+Der Anbieter ist nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+---
+
+## 15. Kontakt
+
+Bei Fragen zu diesen AGB wenden Sie sich bitte an:
+
+- **Website**: https://www.serilo.de
+- **E-Mail**: info@serilo.de
+
+---
+
+**Hinweis**: Diese AGB wurden sorgfältig erstellt, ersetzen jedoch keine individuelle Rechtsberatung. Bei rechtlichen Fragen sollte ein Rechtsanwalt konsultiert werden.
+
+---
+
+*Letzte Aktualisierung: 26. Januar 2026*
