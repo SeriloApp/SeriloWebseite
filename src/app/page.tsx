@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Serilo - Coming Soon',
@@ -50,11 +51,27 @@ export default function Home() {
         </p>
 
         {/* Decorative Line */}
-        <div className="h-1 w-24 rounded-full bg-gradient-to-r from-blue-500 to-purple-600" />
+        <div className="h-1 w-24 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 mb-6" />
+
+        {/* Support Link */}
+        <Link
+          href="/support"
+          className="inline-flex items-center gap-2 rounded-full border border-blue-500/30 bg-blue-500/10 px-5 py-2 text-sm font-medium text-blue-300 hover:bg-blue-500/20 transition-colors"
+        >
+          Support & Hilfe
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 8H13M13 8L9 4M13 8L9 12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </Link>
       </div>
 
-      <footer className="absolute bottom-6 text-xs text-zinc-600 md:text-sm">
-        &copy; {new Date().getFullYear()} Serilo. Alle Rechte vorbehalten.
+      <footer className="absolute bottom-6 flex flex-col items-center gap-2 text-xs text-zinc-600 md:text-sm">
+        <div className="flex gap-4">
+          <Link href="/support" className="hover:text-zinc-400 transition">Support</Link>
+          <Link href="/datenschutz" className="hover:text-zinc-400 transition">Datenschutz</Link>
+          <Link href="/agb" className="hover:text-zinc-400 transition">AGB</Link>
+        </div>
+        <span>&copy; {new Date().getFullYear()} Serilo. Alle Rechte vorbehalten.</span>
       </footer>
     </main>
   );
